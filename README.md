@@ -1,2 +1,2 @@
 # hello-world
-Programming newcomer repository:)
+This repository is for training projects under my data analytics/programming studies:)
